@@ -1,5 +1,5 @@
-import Header from './Header'
-import FollowBar from './components/layouts/FollowBar'
+import Header from './components/Header'
+import FollowBar from './components/FollowBar'
 import Sidebar from './components/layouts/Sidebar'
 
 export default function Home() {
